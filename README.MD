@@ -3,4 +3,4 @@
 #name : fuzail khan
 ##Tech stack : HTML% , css , javascript
 
-[ live link ](https://pinchncrudfunction.netlify.app/)
+[ live link ](https://pivotchainassgn.netlify.app/)
